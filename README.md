@@ -6,7 +6,7 @@ This repository showcases a comprehensive **Mobile Sales Analytics Dashboard** c
 ---
 
 ## 📷 Dashboard Preview
-![Mobile Sales Dashboard](./mobile_sales.png)
+![Mobile Sales ](./mobile_sales.png)
 
 ---
 
