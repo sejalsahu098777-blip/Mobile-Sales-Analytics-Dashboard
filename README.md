@@ -6,8 +6,7 @@ This repository showcases a comprehensive **Mobile Sales Analytics Dashboard** c
 ---
 
 ## 📷 Dashboard Preview
-![Mobile Sales](Screenshot 2026-06-16 094345-Mobile-Sales.png)
----
+![Mobile Sales](./Screenshot%202026-06-16%20094345-Mobile-Sales.png)---
 
 ## 💡 Key Performance Indicators (KPIs)
 * **Total Sales:** 769M
